@@ -1,0 +1,6 @@
+resnet101.pth
+__pycache__
+InkData_line_processed
+train_line_annotation.txt
+*.png
+*.pth
